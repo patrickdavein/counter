@@ -1,4 +1,3 @@
-// set inital value to 0
 let count = 0;
 // select value & buttons
 const value = document.querySelector("#value");
