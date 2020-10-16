@@ -157,6 +157,11 @@ Counter
 ===============
 */
 
+body {
+  background-image: url('https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+}
+
 main {
   min-height: 100vh;
   display: grid;
@@ -165,6 +170,11 @@ main {
 .container {
   text-align: center;
 }
+
+h1  {
+text-shadow: 2px 8px 3px rgba(139, 184, 236, 0.712);
+}
+
 #value {
   font-size: 6rem;
   font-weight: bold;
